@@ -1,5 +1,5 @@
 import React from 'react'
-import underconstruction from "../public/images/underkonstruktion.jpg"
+import underconstruction from "../public/images/underkonstruktion.png"
 export default function App() {
   return (
     <div>
